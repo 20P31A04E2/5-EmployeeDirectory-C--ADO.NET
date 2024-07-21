@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sravanthi.k\\OneDrive - Technovert\\Tezo\\Task_5 MS-VS\\ConsoleApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C851098C-DAA5-44DC-ABFF-CD3AABB91D0A}|..\\Data\\Data.csproj|c:\\users\\sravanthi.k\\onedrive - technovert\\tezo\\task_5 ms-vs\\data\\employeedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71DE46E8-306A-4037-B284-7589CDA65666}|..\\Services\\Services.csproj|c:\\users\\sravanthi.k\\onedrive - technovert\\tezo\\task_5 ms-vs\\services\\employeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71DE46E8-306A-4037-B284-7589CDA65666}|..\\Services\\Services.csproj|c:\\users\\sravanthi.k\\onedrive - technovert\\tezo\\task_5 ms-vs\\services\\roleservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeData.cs",
+              "DocumentMoniker": "C:\\Users\\sravanthi.k\\OneDrive - Technovert\\Tezo\\Task_5 MS-VS\\Data\\EmployeeData.cs",
+              "RelativeDocumentMoniker": "..\\Data\\EmployeeData.cs",
+              "ToolTip": "C:\\Users\\sravanthi.k\\OneDrive - Technovert\\Tezo\\Task_5 MS-VS\\Data\\EmployeeData.cs",
+              "RelativeToolTip": "..\\Data\\EmployeeData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T04:06:43.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoleServices.cs",
+              "DocumentMoniker": "C:\\Users\\sravanthi.k\\OneDrive - Technovert\\Tezo\\Task_5 MS-VS\\Services\\RoleServices.cs",
+              "RelativeDocumentMoniker": "..\\Services\\RoleServices.cs",
+              "ToolTip": "C:\\Users\\sravanthi.k\\OneDrive - Technovert\\Tezo\\Task_5 MS-VS\\Services\\RoleServices.cs",
+              "RelativeToolTip": "..\\Services\\RoleServices.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAswAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T11:01:34.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeServices.cs",
+              "DocumentMoniker": "C:\\Users\\sravanthi.k\\OneDrive - Technovert\\Tezo\\Task_5 MS-VS\\Services\\EmployeeServices.cs",
+              "RelativeDocumentMoniker": "..\\Services\\EmployeeServices.cs",
+              "ToolTip": "C:\\Users\\sravanthi.k\\OneDrive - Technovert\\Tezo\\Task_5 MS-VS\\Services\\EmployeeServices.cs",
+              "RelativeToolTip": "..\\Services\\EmployeeServices.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAgwDsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T11:06:58.469Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+C:\Tezo\Task_5 MS-VS\Utility\bin\Debug\net8.0\Utility.deps.json
+C:\Tezo\Task_5 MS-VS\Utility\bin\Debug\net8.0\Utility.dll
+C:\Tezo\Task_5 MS-VS\Utility\bin\Debug\net8.0\Utility.pdb
+C:\Tezo\Task_5 MS-VS\Utility\obj\Debug\net8.0\Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tezo\Task_5 MS-VS\Utility\obj\Debug\net8.0\Utility.AssemblyInfoInputs.cache
+C:\Tezo\Task_5 MS-VS\Utility\obj\Debug\net8.0\Utility.AssemblyInfo.cs
+C:\Tezo\Task_5 MS-VS\Utility\obj\Debug\net8.0\Utility.csproj.CoreCompileInputs.cache
+C:\Tezo\Task_5 MS-VS\Utility\obj\Debug\net8.0\Utility.dll
+C:\Tezo\Task_5 MS-VS\Utility\obj\Debug\net8.0\refint\Utility.dll
+C:\Tezo\Task_5 MS-VS\Utility\obj\Debug\net8.0\Utility.pdb
+C:\Tezo\Task_5 MS-VS\Utility\obj\Debug\net8.0\ref\Utility.dll
+C:\Users\sravanthi.k\OneDrive - Technovert\Tezo\Task_5 MS-VS\Utility\bin\Debug\net8.0\Utility.deps.json
+C:\Users\sravanthi.k\OneDrive - Technovert\Tezo\Task_5 MS-VS\Utility\bin\Debug\net8.0\Utility.dll
+C:\Users\sravanthi.k\OneDrive - Technovert\Tezo\Task_5 MS-VS\Utility\bin\Debug\net8.0\Utility.pdb
+C:\Users\sravanthi.k\OneDrive - Technovert\Tezo\Task_5 MS-VS\Utility\obj\Debug\net8.0\Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sravanthi.k\OneDrive - Technovert\Tezo\Task_5 MS-VS\Utility\obj\Debug\net8.0\Utility.AssemblyInfoInputs.cache
+C:\Users\sravanthi.k\OneDrive - Technovert\Tezo\Task_5 MS-VS\Utility\obj\Debug\net8.0\Utility.AssemblyInfo.cs
+C:\Users\sravanthi.k\OneDrive - Technovert\Tezo\Task_5 MS-VS\Utility\obj\Debug\net8.0\Utility.csproj.CoreCompileInputs.cache
+C:\Users\sravanthi.k\OneDrive - Technovert\Tezo\Task_5 MS-VS\Utility\obj\Debug\net8.0\Utility.dll
+C:\Users\sravanthi.k\OneDrive - Technovert\Tezo\Task_5 MS-VS\Utility\obj\Debug\net8.0\refint\Utility.dll
+C:\Users\sravanthi.k\OneDrive - Technovert\Tezo\Task_5 MS-VS\Utility\obj\Debug\net8.0\Utility.pdb
+C:\Users\sravanthi.k\OneDrive - Technovert\Tezo\Task_5 MS-VS\Utility\obj\Debug\net8.0\ref\Utility.dll
